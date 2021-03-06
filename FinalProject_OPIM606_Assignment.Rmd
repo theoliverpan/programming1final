@@ -11,7 +11,7 @@ header-includes:
 biblio-style: apsr
 title: "Political Exposure in U.S. Stock Market"
 author:
-- name: YOUR NAME
+- name: Oliver Pan & Nick Schena
   affiliation: Georgetown University
 #abstract: "Summarize findings"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
